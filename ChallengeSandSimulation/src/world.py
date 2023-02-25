@@ -44,9 +44,9 @@ class World:
 
         """ Gérer clique souris pour créer ou supprimer des élements """
         ## si clique gauche
-        ## Créer Sable
+        ## Créer block de Sable
         ## si clique droit
-        ## Créer Vide
+        ## Créer block de Vide
 
         return 0
 
