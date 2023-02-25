@@ -58,8 +58,10 @@ class World:
                     self.__move_sand(x, y)
 
     def __move_sand(self, x: int, y: int) -> None:
-        """Verifier si les cellules voisines sont disponibles"""
-        ##
+        """Verifier si les cellules voisines sont disponibles, si oui interchangé les deux cellules"""
+        # Verifie si la cellule du dessus est vide, si oui interchange les deux
+        ## if self.__is_empty_cell(x, y + 1):
+        ##    self.__switch_cell((x, y), (x, y + 1))
         ##
         ##
         ##
