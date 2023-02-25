@@ -3,7 +3,7 @@
 * CodingClubSandSimulation
 This repository is for a Coding Club session and for those who want to learn more about Python
 
-The support of this code for the *challenger* can be found here -> [[https://tremendous-macaw-801.notion.site/Sand-Simulation-8bfb191e5170406b95e263d5e7ee85bb][Subject]]
+The support of this code for the *challenger* can be found here -> [[https://tremendous-macaw-801.notion.site/Sand-Simulation-8bfb191e5170406b95e263d5e7ee85bb][Subject]]/(Notion Page)/
 
 + The *CobraSandSimulation* is the directory with all the code and thus the answers to the problems
 + The *ChallengeSandSimulation* is the directory for the challenger
