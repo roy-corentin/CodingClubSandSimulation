@@ -59,12 +59,13 @@ class World:
                     self.__move_sand(x, y)
 
     def __move_sand(self, x: int, y: int) -> None:
-        if self.__is_empty_cell(x, y + 1):
+        if self.__is_empty_cell(x, y + 1) == True:  # Si la cellule en dessous est vide
             self.__switch_cell((x, y), (x, y + 1))
-        elif self.__is_empty_cell(x - 1, y + 1):
+        elif self.__is_empty_cell(x - 1, y + 1) == True:  # Si la cellule en dessous à gauche est vide
             self.__switch_cell((x, y), (x - 1, y + 1))
-        elif self.__is_empty_cell(x + 1, y + 1):
+        elif self.__is_empty_cell(x + 1, y + 1) == True:  # Si la cellule en dessous à droite est vide
             self.__switch_cell((x, y), (x + 1, y + 1))
+        self.cellules[y][x].updated = True
         self.cellules[y][x].updated = True
 
     def __draw_cell(self, cellule: Cellule, x: int, y: int) -> None:
