@@ -1,0 +1,8 @@
+#+title: Readme
+
+* CodingClubSandSimulation
+This repository is for a Coding Club session for those who want to learn more about Python
+
+The support for the *challenger* is available here -> [[https://tremendous-macaw-801.notion.site/Sand-Simulation-8bfb191e5170406b95e263d5e7ee85bb][Subject]]
+
++ I wish you good luck and have fun !!
