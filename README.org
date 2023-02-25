@@ -3,8 +3,6 @@
 * CodingClubSandSimulation
 This repository is for a Coding Club session and for those who want to learn more about Python
 
-The support for the *challenger* is available here -> [[https://tremendous-macaw-801.notion.site/Sand-Simulation-8bfb191e5170406b95e263d5e7ee85bb][Subject]]
+The support of this code for the *challenger* can be found here -> [[https://tremendous-macaw-801.notion.site/Sand-Simulation-8bfb191e5170406b95e263d5e7ee85bb][Subject]]
 
-#+begin_quote
-I wish you good luck and have fun !!
-#+end_quote
+** I wish you good luck and have fun !!
