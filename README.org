@@ -5,7 +5,6 @@ This repository is for a Coding Club session and for those who want to learn mor
 
 The support of this code for the *challenger* can be found here -> [[https://tremendous-macaw-801.notion.site/Sand-Simulation-8bfb191e5170406b95e263d5e7ee85bb][Subject]]
 
-+ The *CobraSandSimulation* is the directory with all the code and so the response of problem
-+ The *ChallengeSandSimulation* is the directory for the challenger
++ The *CobraSandSimulation* is the directory with all the code and thus the answers to the problems+ The *ChallengeSandSimulation* is the directory for the challenger
 
 ** I wish you good luck and have fun !!
